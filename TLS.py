@@ -14,7 +14,7 @@ panel = """
   +#+     +#+ +#+       +#+ +#+     +#+ +#+     +#+        +#+    +#+ +#+     +#+        +#+ +#+    +#+ 
   #+#     #+# #+#       #+# #+#     #+# #+#     #+#        #+#    #+# #+#     #+# #+#    #+# #+#    #+# 
   ###     ### ###       ### ###     ### ###     ########## ###    ### ###     ###  ########   ########     
-                                                                      LEGEND POWER DDOS BY NGUYỄN THÀNH 
+                                                                      LEGEND POWER DDOS BY NGUYỄN THÀNH VINH
 """
 print(Colorate.Diagonal(Colors.red_to_yellow, Center.XCenter(panel)))
 print()
