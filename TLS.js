@@ -53,7 +53,7 @@ class TlsBuilder {
     }
 
     Alert(){
-        console.log('       Đang Tấn \n');
+        console.log('       Đang Tấn Công\n');
         console.log('       Amaterasu DDoS By NgThanhVinh\n');
     }
 
